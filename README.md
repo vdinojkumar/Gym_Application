@@ -14,7 +14,7 @@ Welcome to the Gym Application! This application is designed to help users track
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/gym-application.git`
+1. Clone this repository: `git clone https://github.com/vdinojkumar/gym-application.git`
 2. Navigate to the project directory: `cd gym-application`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
