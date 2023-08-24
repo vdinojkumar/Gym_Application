@@ -17,8 +17,7 @@ Welcome to the Gym Application! This application is designed to help users track
 1. Clone this repository: `git clone https://github.com/yourusername/gym-application.git`
 2. Navigate to the project directory: `cd gym-application`
 3. Install dependencies: `npm install`
-4. Configure database settings in `config.js`
-5. Start the application: `npm start`
+4. Start the application: `npm start`
 
 ## Technologies Used
 
@@ -27,6 +26,7 @@ Welcome to the Gym Application! This application is designed to help users track
 
 ## Screenshots
 
-![Screenshot 1](fitnessapp\1.png)
-![Screenshot 2](fitnessapp\2.png)
-![Screenshot 3](fitnessapp\3.png)
+![Screenshot 1](https://github.com/vdinojkumar/Gym-Application/blob/main/2.png)
+![Screenshot 2](https://github.com/vdinojkumar/Gym-Application/blob/main/3.png)
+![Screenshot 3](https://github.com/vdinojkumar/Gym-Application/blob/main/4.png)
+![Screenshot 3](https://github.com/vdinojkumar/Gym-Application/blob/main/5.png)
