@@ -1,6 +1,6 @@
 # Gym Application
 
-![App Screenshot](1.png)
+![App Screenshot](https://github.com/vdinojkumar/Gym-Application/blob/main/1.png)
 
 Welcome to the Gym Application! This application is designed to help users track their fitness journey, manage workouts, and stay motivated to achieve their fitness goals.
 
