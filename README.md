@@ -18,6 +18,7 @@ Welcome to the Gym Application! This application is designed to help users track
 2. Navigate to the project directory: `cd gym-application`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
+5. Install Mui
 
 ## Technologies Used
 
@@ -30,4 +31,3 @@ Welcome to the Gym Application! This application is designed to help users track
 ![Screenshot 2](https://github.com/vdinojkumar/Gym-Application/blob/main/3.png)
 ![Screenshot 3](https://github.com/vdinojkumar/Gym-Application/blob/main/4.png)
 ![Screenshot 3](https://github.com/vdinojkumar/Gym-Application/blob/main/5.png)
-# Gym-Application
