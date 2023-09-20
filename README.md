@@ -26,9 +26,8 @@ The Users of this Web Application will also be provided with the youtube Videos 
 - RAPID API
 
 ## Screenshots
-
-![Screenshot 1](https://github.com/vdinojkumar/Gym-Application/blob/main/2.png)
-![Screenshot 2](https://github.com/vdinojkumar/Gym-Application/blob/main/3.png)
-![Screenshot 3](https://github.com/vdinojkumar/Gym-Application/blob/main/4.png)
-![Screenshot 3](https://github.com/vdinojkumar/Gym-Application/blob/main/5.png)
+![2](https://github.com/vdinojkumar/Gym_Application/assets/94057117/ee9ed7be-464d-4165-bfae-1a3dc116db1d)
+![3](https://github.com/vdinojkumar/Gym_Application/assets/94057117/9decf0b2-eb3e-4962-8b3c-2d4c0fcd2da9)
+![4](https://github.com/vdinojkumar/Gym_Application/assets/94057117/ce4bc0ff-cbad-406e-8e8d-4e197fbb6b1f)
+![5](https://github.com/vdinojkumar/Gym_Application/assets/94057117/4d60d675-a5e3-4c1f-b3c5-d8b92436bb0c)
 
